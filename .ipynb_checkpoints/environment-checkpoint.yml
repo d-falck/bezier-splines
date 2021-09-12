@@ -1,0 +1,9 @@
+name: bezier-env
+channels:
+  - conda-forge
+dependencies:
+  - scipy
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
